@@ -17,7 +17,7 @@ export function Hero() {
           
           <div className="mt-8 flex flex-col items-center">
             <img 
-              src="https://i.ibb.co/Nn0nNwJ/462581127-1353330466074517-2117913595347193976-n.png" 
+              src="https://i.ibb.co/Nx54kmf/462581127-1353330466074517-2117913595347193976-n.png" 
               alt="Failure Token Logo" 
               className="w-40 h-40 object-contain rounded-full border-4 border-red-500 mb-6"
             />
